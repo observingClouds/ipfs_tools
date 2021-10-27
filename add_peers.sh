@@ -2,11 +2,11 @@
 
 set -e
 
-PEERS_URL=https://raw.githubusercontent.com/eurec4a/ipfs_tools/main/peers.yaml
+PEERS_URL=https://raw.githubusercontent.com/eurec4a/ipfs_tools/main/peers.json
 CONFIG_FILE=~/.ipfs/config
 
 EXISTING_PEERS=$(cat "$CONFIG_FILE" | jq '[.Peering.Peers[].ID]' || echo "[]")
-NEW_PEERS=$(curl "$PEERS_URL" | yj | jq '[.Peers[] | select(.ID as $in | $blacklist | index($in) | not)]' --argjson blacklist "$EXISTING_PEERS")
+NEW_PEERS=$(curl "$PEERS_URL" | jq '[.Peers[] | select(.ID as $in | $blacklist | index($in) | not)]' --argjson blacklist "$EXISTING_PEERS")
 
 NEW_PEER_COUNT=`echo "$NEW_PEERS" | jq length`
 if [ "$NEW_PEER_COUNT" -eq "0" ]; then

@@ -11,4 +11,4 @@ If you want to add known peers from this repository into your local IPFS node's 
 curl https://raw.githubusercontent.com/eurec4a/ipfs_tools/main/add_peers.sh | bash
 ```
 
-The script requires `curl`, `jq`, and `yj`.
+The script requires `curl`, `jq`.
