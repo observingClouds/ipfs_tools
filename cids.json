@@ -1,5 +1,19 @@
 {
     "intake": {
-        "latest": "QmYB6zSr7JUTRd9Bj8sJkwFMgMkKJedLSf8TFqfjECGgUA"
+        "latest": "QmaeF3PCCmcGMHi12t7c4aZeob3Kkj1JJ322aNwCBBtUHF",
+        "versions": [
+            {
+                "date": "2021-12-01",
+                "cid": "QmaeF3PCCmcGMHi12t7c4aZeob3Kkj1JJ322aNwCBBtUHF"
+            },
+            {
+                "date": "2021-11-08",
+                "cid": "QmYB6zSr7JUTRd9Bj8sJkwFMgMkKJedLSf8TFqfjECGgUA"
+            },
+            {
+                "date": "2021-09-11",
+                "cid": "QmPHL6xuVaufRTbeWTLpDpzYwMEuf5hi5TSFxa9LXzfKJf"
+            }
+        ]
     }
 }
