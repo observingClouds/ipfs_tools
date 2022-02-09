@@ -1,7 +1,11 @@
 {
     "intake": {
-        "latest": "QmaeF3PCCmcGMHi12t7c4aZeob3Kkj1JJ322aNwCBBtUHF",
+        "latest": "QmahMN2wgPauHYkkiTGoG2TpPBmj3p5FoYJAq9uE9iXT9N",
         "versions": [
+            {
+                "date": "2022-02-09",
+                "cid": "QmahMN2wgPauHYkkiTGoG2TpPBmj3p5FoYJAq9uE9iXT9N"
+            },
             {
                 "date": "2021-12-01",
                 "cid": "QmaeF3PCCmcGMHi12t7c4aZeob3Kkj1JJ322aNwCBBtUHF"
