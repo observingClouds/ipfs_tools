@@ -13,6 +13,11 @@
         "/ip4/147.75.86.255/tcp/6745",
         "/ip4/147.75.86.255/udp/6746/quic"
       ]
-    }
+    },
+      "ID": "12D3KooWN8vAoGd6eurUSidcpLYguQiGZwt4eVgDvbgaS7kiGTup",
+      "Addrs": [
+        "/ip4/3.134.223.177/tcp/6745",
+        "/ip4/3.134.223.177/udp/6746/quic"
+      ]
   ]
 }
