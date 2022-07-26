@@ -15,5 +15,6 @@ popd
 ipfs --version
 ipfs init --profile server
 curl https://raw.githubusercontent.com/eurec4a/ipfs_tools/main/add_peers.sh | bash
+touch ipfs.log  # ensure the file exists such that `tail` doesn't fail.
 ipfs daemon 2>ipfs.log | grep -i -o -m1 'Daemon is ready' & tail -f --pid=$! ipfs.log
 ipfs cat /ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/readme
