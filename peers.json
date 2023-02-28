@@ -20,6 +20,49 @@
         "/ip4/3.134.223.177/tcp/6745",
         "/ip4/3.134.223.177/udp/6746/quic"
       ]
-    }
-  ]
+    },
+    {
+      "ID": "12D3KooWPPiZzBZKiY5XwhmRwhhKyXiFXxGNkEXmzZmjtjrxa8ps",
+      "Addrs": [
+        "/ip4/212.6.53.83/tcp/24002",
+        "/ip4/212.6.53.83/tcp/24002/quic"
+      ]
+    },
+    {
+      "ID": "12D3KooWPNbkEgjdBNeaCGpsgCrPRETe4uBZf1ShFXStobdN18ys",
+      "Addrs": [
+        "/ip4/76.219.232.45/tcp/24001",
+        "/ip4/76.219.232.45/tcp/24001/quic"
+      ]
+    },
+    {
+      "ID": "12D3KooWAK7Jm8hPuEam8C1znVCcgjx6GQb7TmLZJjZTf9ZfD5M7",
+      "Addrs": [
+        "/ip4/211.48.44.72/tcp/24001",
+        "/ip4/211.48.44.72/tcp/24001/quic"
+      ]
+    },
+    {
+      "ID": "12D3KooWRrtGQCLDN8VddCW3cnAkzyAF6QTbkysLoJJqfA96Jki1",
+      "Addrs": [
+        "/ip4/212.6.53.81/tcp/24002",
+        "/ip4/212.6.53.81/tcp/24002/quic"
+      ]
+    },
+    {
+      "ID": "12D3KooWM4wsQ3kdd8CDHiVDQthU9JZ9KqsxSdSQT2xj6TAdDth5",
+      "Addrs": [
+        "/ip4/61.38.42.252/tcp/20000",
+        "/ip4/61.38.42.252/tcp/20000/quic"
+      ]
+    },
+    {
+      "ID": "12D3KooWKAd5C78zMyqbaMCm7Pt9CMyAy6eoJNzedadUuiDBkfhY",
+      "Addrs": [
+        "/ip4/185.37.216.82/tcp/1347",
+        "/ip4/185.37.216.82/tcp/1347/quic",
+        "/ip6/2a04:7340:0:1002::4/tcp/1347"
+      ]
+    },
+ ]
 }
