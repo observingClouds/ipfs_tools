@@ -22,6 +22,26 @@
       ]
     },
     {
+      "ID": ""12D3KooWLV128pddyvoG6NBvoZw7sSrgpMTPtjnpu3mSmENqhtL7,
+      "Addrs": [
+        "/ip4/35.74.45.12/udp/6746/quic"
+      ]
+    },
+    {
+      "ID": "12D3KooWGBWx9gyUFTVQcKMTenQMSyE2ad9m7c9fpjS4NMjoDien",
+      "Addrs": [
+        "/ip4/147.75.49.71/tcp/6745",
+        "/ip4/147.75.49.71/tcp/6745/quic"
+      ]
+    },
+    {
+      "ID": ""12D3KooWCVXs8P7iq6ao4XhfAmKWrEeuKFWCJgqe9jGDMTqHYBjw,
+      "Addrs": [
+        "/ip4/139.178.68.217/tcp/6744",
+        "/ip4/139.178.68.217/tcp/6744/quic"
+      ]
+    },
+    {
       "ID": "12D3KooWPPiZzBZKiY5XwhmRwhhKyXiFXxGNkEXmzZmjtjrxa8ps",
       "Addrs": [
         "/ip4/212.6.53.83/tcp/24002",
