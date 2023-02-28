@@ -2,7 +2,7 @@
 
 set -e
 
-PEERS_URL=https://raw.githubusercontent.com/eurec4a/ipfs_tools/main/peers.json
+PEERS_URL=https://raw.githubusercontent.com/observingClouds/ipfs_tools/new_peers/peers.json
 CONFIG_FILE=~/.ipfs/config
 
 EXISTING_PEERS=$(cat "$CONFIG_FILE" | jq '[.Peering.Peers[].ID]' || echo "[]")
