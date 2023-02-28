@@ -22,7 +22,7 @@
       ]
     },
     {
-      "ID": ""12D3KooWLV128pddyvoG6NBvoZw7sSrgpMTPtjnpu3mSmENqhtL7,
+      "ID": "12D3KooWLV128pddyvoG6NBvoZw7sSrgpMTPtjnpu3mSmENqhtL7",
       "Addrs": [
         "/ip4/35.74.45.12/udp/6746/quic"
       ]
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "ID": ""12D3KooWCVXs8P7iq6ao4XhfAmKWrEeuKFWCJgqe9jGDMTqHYBjw,
+      "ID": "12D3KooWCVXs8P7iq6ao4XhfAmKWrEeuKFWCJgqe9jGDMTqHYBjw",
       "Addrs": [
         "/ip4/139.178.68.217/tcp/6744",
         "/ip4/139.178.68.217/tcp/6744/quic"
@@ -83,6 +83,6 @@
         "/ip4/185.37.216.82/tcp/1347/quic",
         "/ip6/2a04:7340:0:1002::4/tcp/1347"
       ]
-    },
+    }
  ]
 }
